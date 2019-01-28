@@ -31,7 +31,8 @@ body {
 
 .clicked {
     padding: 25px;
-    background-color: white;
+    color: white;
+    background-color: #28aec1;
     border: 2px;
     border-style: solid;
     font-size: 20px;
@@ -42,7 +43,8 @@ body {
 .unclicked {
     padding: 25px;
     text-align: center;
-    background-color: firebrick;
+    color: white;
+    background-color: #28c199;
     border: 2px;
     border-style: solid;
     margin-bottom: 20px;
